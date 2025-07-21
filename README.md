@@ -30,9 +30,7 @@ Auto Cart is a smart shopping cart system designed to automate the billing proce
   - RPi.GPIO / adafruit libraries (if using GPIO input)
 
 ## 📷 Images of the Model
-
-https://drive.google.com/file/d/1hb2IXnTJx3ekiJiqWe55237rDms-YO1H/view?usp=drive_link
-
+![ac](https://github.com/user-attachments/assets/b1cdae08-3a1f-47d7-8db8-090763b42971)
 ## 🧰 How It Works
 
 1. Products with RFID tags are placed into the cart.
