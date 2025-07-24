@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 from PIL import Image, ImageTk
 
-items = [//put your items
+items = [
     ("Milk", 30),
     ("Bread", 25),
     ("Eggs", 60),
