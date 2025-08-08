@@ -6,7 +6,8 @@ items = [
     ("Milk", 30),
     ("Bread", 25),
     ("Eggs", 60),
-    ("Butter", 50)
+    ("Butter", 50),
+    ("Banana",50)
 ]
 
 class AutoCartApp:
